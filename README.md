@@ -1,5 +1,7 @@
 # Neural Network
-Project for "Sistemas de inteligencia artificial" @ITBA, written in Octave
+Project for "Sistemas de inteligencia artificial" @ITBA, written in Octave. 
+
+This is a university project done in collaboration with Ximena Zuberbuhler, Martin Victory and Segundo Fariña.
 
 ## Objective
 Implement a neural network in octave. Train it for aproximating a terrain: given some coordenates we want to 
